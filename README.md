@@ -2,7 +2,7 @@
 ### Sobre mim:
 - 🏡 Sou da Bahia
 - 💻 Trabalho como desenvolvedor web usando HTML, CSS, JS, jQuery , AJAX, Bootstrap, API, WordPress e phpMyAdmin.
-- 📚 Estou me aprimorando em JS e CSS e aprendendo Vue.js / React.
+- 📚 Estou me aprimorando em JAVA e aprendendo Spring e Angular.
 - 🎮 Gosto de jogos cooperativos, Xadrez e RPG de mesa
 - 📫 Pode falar comigo pelo <a href="https://linkedin.com/in/catureba">Linkedin clicando aqui</a>
 
