@@ -1,8 +1,8 @@
 ## Olá, Meu nome é Mateus Catureba
 ### Sobre mim:
 - 🏡 Sou da Bahia
-- 💻 Trabalho como desenvolvedor web usando HTML, CSS, JS, jQuery , AJAX, Bootstrap, API, WordPress e phpMyAdmin.
-- 📚 Estou me aprimorando em JAVA e aprendendo Spring e Angular.
+- 💻 Trabalho como desenvolvedor Back e front end com: JAVA, Spring boot, Gradle, JS, Jquery, Bootstrap, API, HTML, CSS, WordPress e bancos de dados relacionais.
+- 📚 Estou me aprimorando em JAVA e Spring e aprendendo Angular.
 - 🎮 Gosto de jogos cooperativos, Xadrez e RPG de mesa
 - 📫 Pode falar comigo pelo <a href="https://linkedin.com/in/catureba">Linkedin clicando aqui</a>
 
