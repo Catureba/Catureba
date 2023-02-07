@@ -4,7 +4,7 @@
 - 💻 Trabalho como desenvolvedor Back e front end com: JAVA, Spring boot, Gradle, Maven, JS, TS, Jquery, Bootstrap, HTML, CSS, WordPress e bancos de dados relacionais.
 - 📚 Estou me aprimorando em JAVA e Spring e aprendendo Angular.
 - 🎮 Gosto de jogos cooperativos, Xadrez e RPG de mesa
-- 📫 Pode falar comigo pelo <a href="https://linkedin.com/in/catureba">Linkedin clicando aqui</a>
+- 📫 Pode falar comigo pelo <a target="_blank" href="https://linkedin.com/in/catureba">Linkedin clicando aqui</a>
 
   <div>
   <a href = "mailto:caturebadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
