@@ -1,67 +1,66 @@
-## 👋 Hello, I'm Mateus Catureba!
+<h1 align="center">Hi there 👋, I'm Mateus</h1>
 
-### 🛠️ Full-Stack Software Developer
-
-I'm a **Full-Stack Software Developer** with experience in backend and frontend technologies. I'm developing applications using **React, Java, C# .NET, Spring Boot, AWS, and Kafka**. Furthermore, I have a background in **software architecture, microservices, and DevOps practices**.
-
-### 🚀 About Me
-- 💼 **Experience**: Mid-level Full-Stack Developer  
-- 🏗️ **Tech Stack**: React, Java, Spring Boot, C# .NET, AWS, Kafka, Kubernetes, Docker, JavaScript, TypeScript  
-- 📈 **Currently Learning**: Kubernetes,Kafka, CI/CD automation  
-- 🎯 **Soft Skills**: Problem-solving, team collaboration, adaptability, and mentoring  
-- 🎮 **Hobbies**: Playing chess, RPGs, and cooperative games  
+<p align="center">
+  Mid-Level Full-Stack Developer • Java & React • Cloud Enthusiast ☁️
+</p>
 
 ---
 
-### 💡 Tech Stack
+## 🧑‍💻 About Me
 
-#### **🔹 Backend**
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-</div>
+I'm a mid-level full-stack developer based in Brazil 🇧🇷, with solid experience delivering web applications and backend services for real-world use. I specialize in scalable, maintainable code and thrive on solving complex challenges across both frontend and backend layers.
 
-#### **🔹 Frontend**
-<div style="display: inline_block">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
-
-#### **🔹 DevOps & Cloud**
-<div style="display: inline_block">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-</div>
-
-#### **🔹 Databases**
-<div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="center" alt="phpMyAdmin" height="30" width="40" src="https://www.phpmyadmin.net/static/images/logo-og.png" />
-</div>
+- 🔭 Currently working with **Java (Spring Boot)**, **React**, **Angular**, and **AWS**
+- 🌱 Improving my DevOps skills with **Serverless**, **CI/CD pipelines**, and **Docker**
+- 🧠 Interested in system design, microservices architecture, and serverless solutions
+- 💬 Ask me about Java, React, REST APIs, or database optimization
+- ⚡ Fun fact: Some of my personal projects are used by major institutions in Bahia, such as [Esporte Clube Bahia](https://www.esporteclubebahia.com.br/), [Arena Fonte Nova](https://www.casadeapostasfontenova.com.br/), and [Embasa](https://www.embasa.ba.gov.br/) 🚀
 
 ---
 
-### 📚 Currently Improving
-- ✅ **Kubernetes & Docker**: Advanced orchestration and scaling strategies  
-- ✅ **Kafka**: Event-driven architecture and message streaming  
-- ✅ **CI/CD**: Automating deployment pipelines with GitHub Actions and Terraform  
+## 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
+## 🏢 Institutions Using My Work
+
+- 🟦 [Esporte Clube Bahia](https://www.esporteclubebahia.com.br/)  
+  Team management system and reporting tool used by over **80 staff operators** to support fan access and stadium bar operations during matches.
+
+- 🏟️ [Arena Fonte Nova](https://www.casadeapostasfontenova.com.br/)  
+   Customer service record system for stadium access, supporting physical and digital tickets as well as facial recognition. Includes a **real-time monitoring dashboard, staff management, and automated KPI generation and reporting.** 
+
+- 💧 [Embasa](https://www.embasa.ba.gov.br/)  
+  Invitation and accreditation system for corporate events, enabling **QR code email delivery**, real-time credential validation, and automated badge printing — used to register **15,000+ participants**.
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/catureba/)
+- 📧 [caturebadev@gmail.com](mailto:caturebadev@gmail.com)
+- 📱 [WhatsApp](https://wa.me/5571997255502)
 
 ---
 
-### 💬 Connect with Me
-<a href="mailto:caturebadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/catureba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
----
-
-![Snake animation](https://github.com/catureba/catureba/blob/output/github-contribution-grid-snake.svg)
-
+> “Build things that matter. Code with purpose.” 🚀
